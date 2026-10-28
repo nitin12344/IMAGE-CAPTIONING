@@ -1,0 +1,14 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# HuggingFace ecosystem — BLIP image captioning model
+transformers>=4.35.0
+Pillow>=10.0.0
+
+# Optional: faster tokenisation
+sentencepiece>=0.1.99
+
+# CLI progress / display
+tqdm>=4.66.0
+colorama>=0.4.6
